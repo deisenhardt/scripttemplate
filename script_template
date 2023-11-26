@@ -3,32 +3,32 @@
 #HELP00:           Script Name: 
 #HELP01:               Purpose: 
 #HELP02:                 Owner:  
-#HELP03:               Created: 
-#HELP04:              Category: 
-#HELP05:            Input File:
-#HELP06:           Output File:
-#HELP07:              Log path:
-#HELP08:                Syntax: 
-#HELP09:               Example: 
-#HELP10:              Commands:
-#HELP11:      Production Files: 
-#HELP12:    Ancillary Programs:
-#HELP13:     Ancillary Scripts:
-#HELP14:         Local Scripts:
-#HELP15: crontask/systemd srvc:
-#HELP16: task/service schedule:
-#HELP17:        Kernel Version:
-#HELP18:            DB Version:
-#HELP19:            Audit Date:
-#HELP20:               Auditor:
-#HELP21:       Approve Date(s):
-#HELP22:           Approver(s):
-#HELP23: Date Checked Into CVS:
-#HELP24:   Checked Into CVS By:
-#HELP25:               Version:  1
-#HELP26:               Changes:
-#HELP27:           Github path:
-#HELP28:
+#HELP03:               License:  
+#HELP04:               Created: 
+#HELP05:              Category: 
+#HELP06:            Input File:
+#HELP07:           Output File:
+#HELP08:              Log path:
+#HELP09:                Syntax: 
+#HELP10:               Example: 
+#HELP11:              Commands:
+#HELP12:      Production Files: 
+#HELP13:    Ancillary Programs:
+#HELP14:     Ancillary Scripts:
+#HELP15:         Local Scripts:
+#HELP16: crontask/systemd srvc:
+#HELP17: task/service schedule:
+#HELP18:        Kernel Version:
+#HELP19:            DB Version:
+#HELP20:            Audit Date:
+#HELP21:               Auditor:
+#HELP22:       Approve Date(s):
+#HELP23:           Approver(s):
+#HELP24: Date Checked Into CVS:
+#HELP25:   Checked Into CVS By:
+#HELP26:               Version:  1
+#HELP27:               Changes:
+#HELP28:            Github url:
 #HELP29:
 #HELP30:
 
