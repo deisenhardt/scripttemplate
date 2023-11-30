@@ -40,6 +40,10 @@
 # Exit codes !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+# https://tldp.org/LDP/abs/html/exitcodes.html
+# reserved/do not use: 1 2 126-143
+# otherwise 255 max
+
 #
 #
 #
